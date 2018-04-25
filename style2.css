@@ -1,0 +1,45 @@
+∫∫*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    width:950px;
+    height:700px;
+    background-color:darkgray;
+}
+#main_content{
+    width:925px;
+    height:675px;
+}
+#main_content img{
+    width:925px;
+    height:675px;
+    margin:10px 10px 10px 10px;
+    display:inline-block;
+}
+.selectplayers {
+    text-shadow: 1px 1px 1px white;
+    width:200px;
+    height:100px;
+    background-color:lightgray;
+    margin-top:150px;
+    margin-left:300px;
+    display:inline-block;
+    vertical-align: top;
+
+}
+.cellWrap {
+  margin-left: 27px;
+}
+.selectplayers p{
+    font-size: 30px;
+    color:#df9f11;
+    text-align: middle;
+    margin-top:20px;
+    margin-bottom:10px;
+    margin-left:20px;
+}
+.selectplayers player1, .selectplayers player2{
+
+    margin-left:20px;
+}
